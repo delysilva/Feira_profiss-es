@@ -1,2 +1,2 @@
-# Feira_profiss-es
+# Feira de profissões
 Repositório da feira de profissões
